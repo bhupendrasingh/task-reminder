@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ReminderListActivity!</string>
+    <string name="app_name">Do It Now</string>
+    <string name="no_reminders">No Reminders Yet</string>
+    <string name="title">Task Name</string>
+    <string name="confirm">Save</string>
+    <string name="date">Set Date &amp; Time</string>
+    <string name="body">Task</string>
+    <string name="menu_insert">Add Reminder</string>
+    <string name="menu_delete">Delete Task</string>
+    <string name="task_saved_message">Task Saved</string>
+    <string name="notify_new_task_msg">The task is due</string>
+    <string name="notify_new_task_title">Task Reminder</string>
+    <string name="sms_to">To</string>
+    <string name="sms_msg">Message</string>
+    <string name="sms_send">Send</string>
+    <string name="sms_scheduler">SMS</string>
+    <string name="contact">Add </string>
+    <string name="edit">Edit Task</string>
+</resources>

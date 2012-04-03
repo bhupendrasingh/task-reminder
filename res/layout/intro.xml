@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+<ImageView
+android:id="@+id/bckgrnd"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="center_horizontal"
+android:src="@drawable/backgrnd"
+/>
+<TextView
+android:id="@+id/intro"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="The application lets you set the reminders for daily tasks and even
+allows you to send messages."
+android:textColor="#000000"
+android:typeface="monospace"
+android:textSize="18dip"
+android:layout_centerInParent="true"
+/>
+<Button
+android:id="@+id/start"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@+id/intro"
+android:paddingLeft="40dip"
+android:paddingRight="40dip"
+android:background="@drawable/start"
+android:layout_centerInParent="true"
+/>
+</RelativeLayout>
+
